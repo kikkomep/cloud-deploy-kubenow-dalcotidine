@@ -1,8 +1,8 @@
 {
-	"applicationName": "Phenomenal VRE",
+	"applicationName": "Phenomenal Dalcotidine VRE",
 	"contactEmail": "email@phenomenal.cloud",
 	"about": "Phenomenal Virtual Research Environment/Cloud",
-	"version": "2.0-Cerebellin-20180628",
+	"version": "3.0-Dalcotidine-20180628",
 	"cloudProviders": [
 		{ "cloudProvider": "AWS", "path": "cloud_portal/aws", "inputs": [ "aws_access_key_id",
                                                                           "aws_secret_access_key",
